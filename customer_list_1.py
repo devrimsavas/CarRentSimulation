@@ -1,0 +1,12 @@
+customer_list = [    "John Smith",    "Jane Doe",    "Michael Johnson",    "Emily Davis",
+                     "Daniel Williams",    "Linda Brown",    "David Garcia",    "Susan Wilson",
+                     "Steven Jones",    "Lisa Miller",    "Kevin Taylor",    "Mary Hernandez",
+                     "Jason Martinez",    "Patricia Anderson",    "Brian Thomas",    "Karen Jackson",
+                     "Edward White",    "Laura Lee",    "Jeffrey Turner",    "Cynthia Martin",
+                     "Richard Perez",    "Jennifer Thompson",    "Christopher Rodriguez",
+                     "Elizabeth Davis",    "Matthew Gonzalez",    "Sharon Wilson",    "Anthony Anderson",
+                     "Christine Martinez",    "Timothy Lee",    "Carol Taylor",    "Ronald Hernandez",
+                     "Stephanie Johnson",    "Jeremy Smith",    "Rebecca Jones",    "Jonathan Williams",
+                     "Margaret Garcia",    "Eric Wilson",    "Amy Brown",    "Phillip Miller",    "Tina Davis",
+                     "Scott Gonzalez",    "Janet Perez",    "David Anderson",    "Brenda Jackson",    "George Thomas",
+                     "Angela Hernandez",    "Joseph Thompson",    "Melissa Turner",    "Nicholas Rodriguez"]
